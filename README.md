@@ -1,24 +1,25 @@
 [![What-If](https://raw.githubusercontent.com/Ryszardfc/What-If/main/Cabecera__.png)]()
 
 <h1 align='left'>
-  Hola 👋 soy Ryszard 👨‍💻
+  Hola 👋 soy Ryszard 📊 
 </h1>
 
 <p align='left'>
   Business Analytics de La Paz, Bolivia.
 </p>
 
-<p align='left'>
-  📫 Cómo comunicarse conmigo: <a href='mailto:ryszardfcr@outlook.com'>ryszardfcr@outlook.com</a>
-</p>
+<p align='left'>👨‍💻 Cómo comunicarse conmigo:</a></p>
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=59176713672)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](mailto:info@businessanalytics.solutions)
 
+<p align='left'>👨👩 Mis redes sociales:</a></p>
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ryszardfrank)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DataAnalyticsRy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dataanalyticsry/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://ryszardfc.github.io/What-If/)
 [![Web](https://img.shields.io/badge/Website-39477F?style=for-the-badge&logo=realm&logoColor=white)](https://linktr.ee/Ryszard.Frank)
 
-> _"Los buenos practicantes actúan como detectives, investigando para comprender mejor su modelo"_
+> _"Los buenos practicantes actúan como detectives, investigando para comprender mejor su modelo 💬"_
 
 En esta era de aprendizaje automático explicable e interpretable, uno simplemente no puede contentarse con simplemente entrenar el modelo y obtener predicciones a partir de él. Para poder realmente tener un impacto y obtener buenos resultados, también deberíamos poder sondear e investigar nuestros modelos. Aparte de eso, las restricciones de equidad algorítmica y el sesgo también deben tenerse en cuenta claramente antes de seguir adelante con el modelo.
 
