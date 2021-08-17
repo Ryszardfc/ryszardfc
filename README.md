@@ -8,6 +8,10 @@
   Business Analytics de La Paz, Bolivia.
 </p>
 
+<p align='left'>
+  📫 Cómo comunicarse conmigo: <a href='mailto:ryszardfcr@outlook.com'>ryszardfcr@outlook.com</a>
+</p>
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ryszardfrank)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DataAnalyticsRy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dataanalyticsry/)
@@ -26,6 +30,12 @@ La investigación de un modelo requiere una gran cantidad de preguntas y uno tie
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"></a>
 </p>
+
+#### 💻 Nuestras plataformas:
+
+[![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+[![Microsoft](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
+[![Amazon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 
 <!--
 **Ryszardfc/ryszardfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
