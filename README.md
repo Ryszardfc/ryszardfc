@@ -83,6 +83,7 @@ La investigación de un modelo requiere una gran cantidad de preguntas y uno tie
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
 [![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)]()
 
+
 <!--
 **Ryszardfc/ryszardfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
