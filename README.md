@@ -28,6 +28,7 @@ La investigación de un modelo requiere una gran cantidad de preguntas y uno tie
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ryszardfc&show_icons=true&count_private=true&theme=default" width="350"></a>
 </p>
 
+
 #### ☁ Cloud:
 [![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 [![Microsoft](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
