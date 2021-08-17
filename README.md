@@ -8,11 +8,17 @@
   Business Analytics de La Paz, Bolivia.
 </p>
 
-<p align='left'>👨‍💻 Cómo comunicarse conmigo:</a></p>
+<p align='left'>
+  👨‍ Cómo comunicarse conmigo:
+</p>
+
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=59176713672)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](mailto:info@businessanalytics.solutions)
 
-<p align='left'>👨👩 Mis redes sociales:</a></p>
+<p align='left'>
+  👨👩 Mis redes sociales:
+</p>
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ryszardfrank)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DataAnalyticsRy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dataanalyticsry/)
