@@ -1,5 +1,3 @@
-[![What-If](https://raw.githubusercontent.com/Ryszardfc/What-If/main/Cabecera__.png)]()
-
 <h1 align='left'>
   Hola 👋 soy Ryszard 📊 
 </h1>
