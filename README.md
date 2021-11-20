@@ -36,6 +36,9 @@ La Analítica Empresarial es la ciencia del uso de datos para construir modelos 
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ryszardfc&show_icons=true&count_private=true&theme=default" width="350"></a>
 </p>
 
+#### 🤔 Proyectos:
+[![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/Ryszardfc)
+
 #### ☁ Cloud:
 [![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/Ryszardfc)
 [![Microsoft](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/Ryszardfc)
