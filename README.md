@@ -37,7 +37,11 @@ La Analítica Empresarial es la ciencia del uso de datos para construir modelos 
 </p>
 
 #### 🤔 Proyectos:
-[![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/Ryszardfc)
+[![](https://img.shields.io/badge/Business_Intelligence-%FF6F00.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
+[![](https://img.shields.io/badge/Machine_Learning-%232E7EEA.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
+[![](https://img.shields.io/badge/Deep_Learning-%FFF200.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
+[![](https://img.shields.io/badge/Natural_Language_Processing-%F37626.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
+[![](https://img.shields.io/badge/Computer_Vision-%F2C811.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
 
 #### ☁ Cloud:
 [![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/Ryszardfc)
