@@ -7,6 +7,10 @@
 </p>
 
 <p align='left'>
+  Nuestro objetivo es sacar conclusiones concretas sobre una empresa respondiendo preguntas específicas sobre por qué sucedieron las cosas, qué sucederá y qué se debe hacer.
+</p>
+
+<p align='left'>
   👨‍ Cómo comunicarse conmigo:
 </p>
 
@@ -22,16 +26,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://ryszardfc.github.io/ryszardfc/)
 [![Web](https://img.shields.io/badge/Website-39477F?style=for-the-badge&logo=realm&logoColor=white)](https://linktr.ee/Ryszard.Frank)
 
-> _"Los buenos practicantes actúan como detectives, investigando para comprender mejor su modelo 💬"_
+> _"la analítica empresarial trata simplemente de utilizar datos para generar conocimientos 💬"_
 
-En esta era de aprendizaje automático explicable e interpretable, uno simplemente no puede contentarse con simplemente entrenar el modelo y obtener predicciones a partir de él. Para poder realmente tener un impacto y obtener buenos resultados, también deberíamos poder sondear e investigar nuestros modelos. Aparte de eso, las restricciones de equidad algorítmica y el sesgo también deben tenerse en cuenta claramente antes de seguir adelante con el modelo.
-
-La investigación de un modelo requiere una gran cantidad de preguntas y uno tiene que tener perspicacia de un detective para sondear y buscar problemas e inconsistencias dentro de los modelos.
+En esta era de aprendizaje automático explicable e interpretable, uno simplemente no puede contentarse con simplemente entrenar el modelo y obtener predicciones a partir de él. Para poder realmente tener un impacto y obtener buenos resultados, también deberíamos poder sondear e investigar nuestros modelos. 
 
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ryszardfc&show_icons=true&count_private=true&theme=default" width="350"></a>
 </p>
-
 
 #### ☁ Cloud:
 [![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
