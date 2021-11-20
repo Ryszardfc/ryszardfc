@@ -6,9 +6,7 @@
   Senior Business Analytics de La Paz, Bolivia.
 </p>
 
-<p align='left'>
-  Nuestro objetivo es sacar conclusiones concretas sobre una empresa respondiendo preguntas específicas sobre por qué sucedieron las cosas, qué sucederá y qué se debe hacer.
-</p>
+> _"La Analítica Empresarial trata simplemente de utilizar datos para generar conocimientos 💬"_
 
 <p align='left'>
   👨‍ Cómo comunicarse conmigo:
@@ -26,9 +24,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://ryszardfc.github.io/ryszardfc/)
 [![Web](https://img.shields.io/badge/Website-39477F?style=for-the-badge&logo=realm&logoColor=white)](https://linktr.ee/Ryszard.Frank)
 
-> _"la analítica empresarial trata simplemente de utilizar datos para generar conocimientos 💬"_
+<p align='left'>
+  👨‍ Nuestro objetivo:
+</p>
 
-En esta era de aprendizaje automático explicable e interpretable, uno simplemente no puede contentarse con simplemente entrenar el modelo y obtener predicciones a partir de él. Para poder realmente tener un impacto y obtener buenos resultados, también deberíamos poder sondear e investigar nuestros modelos. 
+> _"Sacar conclusiones concretas sobre una empresa respondiendo preguntas específicas sobre por qué sucedieron las cosas, qué sucederá y qué se debe hacer. 💬"_
+
+La Analítica Empresarial es la ciencia del uso de datos para construir modelos matemáticos y llegar a decisiones que tienen valor para una empresa u organización, dice Bertsimas. Esto es relevante en casi todos los campos, ya sea en medicina, tecnología, comercio minorista o bienes raíces.
 
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ryszardfc&show_icons=true&count_private=true&theme=default" width="350"></a>
