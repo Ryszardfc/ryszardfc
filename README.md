@@ -36,7 +36,7 @@ La Analítica Empresarial es la ciencia del uso de datos para construir modelos 
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ryszardfc&show_icons=true&count_private=true&theme=default" width="350"></a>
 </p>
 
-#### 🤔 Proyectos:
+#### 🤜🤛 Proyectos:
 [![](https://img.shields.io/badge/Business_Intelligence-%232E7EEA.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
 [![](https://img.shields.io/badge/Machine_Learning-%236DB33F.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
 [![](https://img.shields.io/badge/Deep_Learning-%23ED8B00.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
@@ -77,7 +77,6 @@ La Analítica Empresarial es la ciencia del uso de datos para construir modelos 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/Ryszardfc)
 [![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://github.com/Ryszardfc)
 [![RASPBERRY](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)](https://github.com/Ryszardfc)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/Ryszardfc)
 [![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/Ryszardfc)
 [![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/Ryszardfc)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Ryszardfc)
@@ -96,11 +95,14 @@ La Analítica Empresarial es la ciencia del uso de datos para construir modelos 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/Ryszardfc)
 
 #### 👩‍💻 IDE:
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/Ryszardfc)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://github.com/Ryszardfc)
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/Ryszardfc)
 [![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)](https://github.com/Ryszardfc)
-
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/Ryszardfc)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://github.com/Ryszardfc)
+[![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)](https://github.com/Ryszardfc)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://github.com/Ryszardfc)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/Ryszardfc)
 
 <!--
 **Ryszardfc/ryszardfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
