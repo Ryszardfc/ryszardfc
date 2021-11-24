@@ -1,5 +1,5 @@
 <h1 align='left'>
-  Hola 👋 soy Ry.Frank 📊
+  Hola 👋 soy Ryszard Frank 📊
 </h1>
 
 <p align='left'>
