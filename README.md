@@ -1,13 +1,14 @@
 <h1 align='left'>
-  Hola 👋 soy Ryszard 📊 
+  Hola 👋 soy Ry.Frank 📊
 </h1>
 
 <p align='left'>
   Senior Business Analytics de La Paz, Bolivia.
 </p>
 
-> _"La Analítica Empresarial trata simplemente de utilizar datos para generar conocimientos 💬"_
-
+> _"La Analítica Empresarial trata simplemente de utilizar datos para generar conocimiento 💬"_
+> _@DataAnalyticsRy_
+  
 <p align='left'>
   👨‍ Cómo comunicarse conmigo:
 </p>
@@ -22,6 +23,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dataanalyticsry/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://ryszardfc.github.io/ryszardfc/)
 [![Web](https://img.shields.io/badge/Website-39477F?style=for-the-badge&logo=realm&logoColor=white)](https://linktr.ee/Ryszard.Frank)
+
+> _"#DataScientist. #BusinessAnalytics  Consultant (#Mathematics + #Statistics and #ComputerScience)💬"_
 
 <p align='left'>
   👨‍ Nuestro objetivo:
