@@ -2,14 +2,12 @@
   Hola 👋 soy Ryszard Frank 📊
 </h1>
 
+> _@DataAnalyticsRy_
+
 <p align='left'>
   Predictive Profitability Strategist.
   Arquitecto financiero que utiliza analítica avanzada para garantizar la rentabilidad futura
 </p>
-
-> _@DataAnalyticsRy_
-
-$$Rentabilidad\ Predictiva = (Ingresos\ Operativos \times Scoring\ de\ Liquidez\ AI) - (Costo\ de\ Ejecución\ Real + Fuga\ Técnica\ Detectada)$$
 
 <p align='left'>
   👨‍ Cómo comunicarse conmigo:
@@ -26,7 +24,7 @@ $$Rentabilidad\ Predictiva = (Ingresos\ Operativos \times Scoring\ de\ Liquidez\
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://ryszardfc.github.io/ryszardfc/)
 [![Web](https://img.shields.io/badge/Website-39477F?style=for-the-badge&logo=realm&logoColor=white)](https://u-card.me/ryszard)
 
-> _"#DataScientist. #BusinessAnalytics  Consultant (#Mathematics + #Statistics and #ComputerScience)💬"_
+$$Rentabilidad\ Predictiva = (Ingresos\ Operativos \times Scoring\ de\ Liquidez\ AI) - (Costo\ de\ Ejecución\ Real + Fuga\ Técnica\ Detectada)$$
 
 <p align='left'>
   👨‍ Nuestro objetivo:
