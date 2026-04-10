@@ -4,11 +4,10 @@
 
 <p align='left'>
   Predictive Profitability Strategist.
+  Arquitecto financiero que utiliza analítica avanzada para garantizar la rentabilidad futura
 </p>
-
-$$Rentabilidad\ Predictiva = (Ingresos\ Operativos \times Scoring\ de\ Liquidez\ AI) - (Costo\ de\ Ejecución\ Real + Fuga\ Técnica\ Detectada)$$
 > _@DataAnalyticsRy_
-  
+$$Rentabilidad\ Predictiva = (Ingresos\ Operativos \times Scoring\ de\ Liquidez\ AI) - (Costo\ de\ Ejecución\ Real + Fuga\ Técnica\ Detectada)$$
 <p align='left'>
   👨‍ Cómo comunicarse conmigo:
 </p>
