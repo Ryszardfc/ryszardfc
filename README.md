@@ -6,7 +6,7 @@
   Predictive Profitability Strategist.
 </p>
 
-$$Rentabilidad\ Predictiva = (Ingresos\ Operativos \times Scoring\ de\ Liquidez\ AI) - (Costo\ de\ Ejecución\ Real + Fuga\ Técnica\ Detectada)$$
+> _$$Rentabilidad\ Predictiva = (Ingresos\ Operativos \times Scoring\ de\ Liquidez\ AI) - (Costo\ de\ Ejecución\ Real + Fuga\ Técnica\ Detectada)$$_
 
 > _"La Analítica Empresarial trata simplemente de utilizar datos para generar conocimiento 💬"_
 > _@DataAnalyticsRy_
