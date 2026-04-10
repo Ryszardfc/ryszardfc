@@ -3,7 +3,7 @@
 </h1>
 
 <p align='left'>
-  Senior Business Analytics de La Paz, Bolivia.
+  Predictive Profitability Strategist.
 </p>
 
 > _"La Analítica Empresarial trata simplemente de utilizar datos para generar conocimiento 💬"_
