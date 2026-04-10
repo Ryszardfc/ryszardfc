@@ -38,48 +38,7 @@ Como Predictive Profitability Strategist, mi valor no reside en la analítica de
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ryszardfc&show_icons=true&count_private=true&theme=default" width="350"></a>
 </p>
 
----
-
 ### 🛠️ Artillería Técnica (Stack & Ecosystem)
-
-#### 🚀 Especialidades y Proyectos
-[![](https://img.shields.io/badge/Business_Intelligence-%232E7EEA.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
-[![](https://img.shields.io/badge/Machine_Learning-%236DB33F.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
-[![](https://img.shields.io/badge/Deep_Learning-%23ED8B00.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
-[![](https://img.shields.io/badge/Natural_Language_Processing-%232C8EBB.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
-[![](https://img.shields.io/badge/Computer_Vision-%23B7178C.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
-
-#### ☁️ Infraestructura Cloud
-[![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/Ryszardfc)
-[![Microsoft](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/Ryszardfc)
-[![Amazon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Ryszardfc)
-
-#### 💻 Lenguajes de Análisis y Arquitectura
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Ryszardfc)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/Ryszardfc)
-[![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://github.com/Ryszardfc)
-[![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://github.com/Ryszardfc)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Ryszardfc)
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Ryszardfc)
-
-#### ⚡ Saneamiento e Integridad de Datos (DB)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Ryszardfc)
-[![Microsoft SQL Sever](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/Ryszardfc)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Ryszardfc)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/Ryszardfc)
-
-#### ⚙️ Frameworks y Herramientas Corporativas
-[![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/Ryszardfc)
-[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://github.com/Ryszardfc)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Ryszardfc)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Ryszardfc)
-
----
-
-
-
-
-
 #### 🤜🤛 Proyectos:
 [![](https://img.shields.io/badge/Business_Intelligence-%232E7EEA.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
 [![](https://img.shields.io/badge/Machine_Learning-%236DB33F.svg?style=for-the-badge)](https://linktr.ee/Ryszard.Frank)
