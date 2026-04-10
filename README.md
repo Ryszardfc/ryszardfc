@@ -13,7 +13,7 @@
   👨‍ Cómo comunicarse conmigo:
 </p>
 
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](mailto:info@businessanalytics.solutions)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](mailto:ryszard@businessanalytics.solutions)
 
 <p align='left'>
   👨👩 Mis redes sociales:
@@ -22,7 +22,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DataAnalyticsRy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dataanalyticsry/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://ryszardfc.github.io/ryszardfc/)
-[![Web](https://img.shields.io/badge/Website-39477F?style=for-the-badge&logo=realm&logoColor=white)](https://linktr.ee/Ryszard.Frank)
+[![Web](https://img.shields.io/badge/Website-39477F?style=for-the-badge&logo=realm&logoColor=white)](https://u-card.me/ryszard)
 
 > _"#DataScientist. #BusinessAnalytics  Consultant (#Mathematics + #Statistics and #ComputerScience)💬"_
 
